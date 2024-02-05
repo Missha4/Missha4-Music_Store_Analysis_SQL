@@ -4,6 +4,15 @@
 
 This project features a concise SQL-based analysis of a music store database, exploring key business questions in three difficulty levels.
 
+## Database and Tools
+
+- **Database:** Postgre SQL
+- **Management Tool:** PgAdmin4
+
+## Schema - Music Store Database
+
+![Music Store Database Schema](MusicDatabaseSchema.png)
+
 ## Key Questions Explored
 
 - **Easy Level:** Basic insights into senior employees, top invoicing countries, and high-spending customers.
@@ -21,14 +30,6 @@ This project features a concise SQL-based analysis of a music store database, ex
 1. Execute the `music_store_queries.sql` script for tailored queries.
 2. Leverage insights for informed decision-making.
 
-## Database and Tools
-
-- **Database:** Postgre SQL
-- **Management Tool:** PgAdmin4
-
-## Schema - Music Store Database
-
-![Music Store Database Schema](MusicDatabaseSchema.png)
 
 
 
